@@ -1,7 +1,7 @@
 class Api::V1::IssuesController < ApplicationController
   def index
     @issues = Issue.all.sort { |issue| issue.votes }
-    # byebug
+
     render json: @issues
   end
 
