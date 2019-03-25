@@ -1,3 +1,3 @@
 class IssueSerializer < ActiveModel::Serializer
-  attributes :id, :title, :location, :votes, :description, :resolved
+  attributes :id, :title, :zipcode, :description, :resolved, :category_id
 end
