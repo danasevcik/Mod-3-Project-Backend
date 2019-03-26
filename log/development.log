@@ -1525,3 +1525,1160 @@ Processing by Api::V1::IssuesController#index as */*
 Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
 
 
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:44:22 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.5ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.31ms)
+Completed 200 OK in 8ms (Views: 1.6ms | ActiveRecord: 4.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:45:22 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (1.17ms)
+Completed 200 OK in 3ms (Views: 1.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:47:40 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.73ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:48:50 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.36ms)
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:48:55 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.48ms)
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:50:27 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.83ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:51:30 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.7ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:51:50 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.74ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:51:59 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.64ms)
+Completed 200 OK in 3ms (Views: 1.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:52:12 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.6ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.7ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:52:57 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.73ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:53:37 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.3ms)
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:54:13 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.28ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:54:58 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.28ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:55:05 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.28ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:55:06 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.27ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:55:15 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.28ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:55:18 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.26ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:55:36 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.38ms)
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:56:23 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.27ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:56:36 -0400
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/danasevcik/.rvm/gems/ruby-2.6.1/gems/activerecord-5.2.2.1/lib/active_record/log_subscriber.rb:98
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.6ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.5ms)
+Completed 200 OK in 26ms (Views: 6.5ms | ActiveRecord: 5.5ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:57:18 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.6ms)
+Completed 200 OK in 3ms (Views: 1.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues/1/upvote" for ::1 at 2019-03-25 19:57:20 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (2.6ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (2.3ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (1.2ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 7], ["updated_at", "2019-03-25 23:57:20.786809"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.4ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.22ms)
+Completed 200 OK in 42ms (Views: 0.9ms | ActiveRecord: 10.7ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:58:29 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.4ms)
+Completed 200 OK in 11ms (Views: 9.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues/1/downvote" for ::1 at 2019-03-25 19:58:31 -0400
+Processing by Api::V1::IssuesController#downvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:29
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[36mCategory Load (0.3ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[36mIssue Update (0.4ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 6], ["updated_at", "2019-03-25 23:58:31.087290"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.14ms)
+Completed 200 OK in 6ms (Views: 0.5ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/api/v1/issues/1/upvote" for ::1 at 2019-03-25 19:58:31 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.3ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 7], ["updated_at", "2019-03-25 23:58:31.828054"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 5ms (Views: 0.5ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/api/v1/issues/1/upvote" for ::1 at 2019-03-25 19:58:32 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.3ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.4ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 8], ["updated_at", "2019-03-25 23:58:32.232417"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 5ms (Views: 0.5ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:58:40 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.26ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 19:58:41 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.31ms)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues/4/upvote" for ::1 at 2019-03-25 20:00:51 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"4"}
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.3ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 2], ["updated_at", "2019-03-26 00:00:51.769895"], ["id", 4]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.16ms)
+Completed 200 OK in 6ms (Views: 0.6ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/api/v1/issues/4/upvote" for ::1 at 2019-03-25 20:00:52 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"4"}
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.3ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 3], ["updated_at", "2019-03-26 00:00:52.333620"], ["id", 4]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.12ms)
+Completed 200 OK in 7ms (Views: 1.0ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/api/v1/issues/4/downvote" for ::1 at 2019-03-25 20:00:52 -0400
+Processing by Api::V1::IssuesController#downvote as */*
+  Parameters: {"id"=>"4"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:29
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 2], ["updated_at", "2019-03-26 00:00:52.990331"], ["id", 4]]
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[35m (0.8ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.21ms)
+Completed 200 OK in 8ms (Views: 0.6ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:00:53 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.1ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 2], ["updated_at", "2019-03-26 00:00:53.810739"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (1.42ms)
+Completed 200 OK in 9ms (Views: 1.9ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:00:54 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.1ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 3], ["updated_at", "2019-03-26 00:00:54.017262"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 5ms (Views: 0.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:00:54 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (1.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.1ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 4], ["updated_at", "2019-03-26 00:00:54.209981"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.12ms)
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 2.3ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:00:54 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 5], ["updated_at", "2019-03-26 00:00:54.406087"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.14ms)
+Completed 200 OK in 7ms (Views: 0.5ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:00:54 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.1ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 6], ["updated_at", "2019-03-26 00:00:54.601475"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.12ms)
+Completed 200 OK in 7ms (Views: 1.0ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:00:54 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.1ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 7], ["updated_at", "2019-03-26 00:00:54.802360"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.71ms)
+Completed 200 OK in 7ms (Views: 1.1ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:00:55 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 8], ["updated_at", "2019-03-26 00:00:55.018619"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 6ms (Views: 0.5ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:05:35 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.28ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:05:40 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.28ms)
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:05:49 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.26ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:07:23 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.27ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:08:09 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.26ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:08:39 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.4ms)
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:08:41 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.38ms)
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:10:00 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.27ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:10:16 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.27ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:10:17 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.44ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:10:30 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.46ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:10:35 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.29ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:10:36 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.7ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.43ms)
+Completed 200 OK in 3ms (Views: 1.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:11:01 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.5ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.41ms)
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:11:58 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.5ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.37ms)
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:11:59 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.29ms)
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:12:41 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.5ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.36ms)
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:12:43 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.43ms)
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:12:43 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.28ms)
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues/1/upvote" for ::1 at 2019-03-25 20:12:55 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.4ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 9], ["updated_at", "2019-03-26 00:12:55.251458"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 5ms (Views: 0.5ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:14:07 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:4
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (1.97ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 4.3ms)
+
+
+  
+NoMethodError (undefined method `cache_enabled?' for ActiveModel::Serializer::CollectionSerializer:Class):
+  
+app/controllers/api/v1/issues_controller.rb:6:in `index'
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:15:09 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+Completed 500 Internal Server Error in 105832ms (ActiveRecord: 4.0ms)
+
+
+  
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:16:55 -0400
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:16:55 -0400
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:16:55 -0400
+SystemExit (exit):
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:16:55 -0400
+  
+(byebug):1:in `exit'
+(byebug):1:in `index'
+app/controllers/api/v1/issues_controller.rb:5:in `index'
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:16:55 -0400
+Processing by Api::V1::IssuesController#index as */*
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (44.9ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  [1m[36mIssue Load (61.9ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (10.0ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (1.9ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+Completed 500 Internal Server Error in 6135ms (ActiveRecord: 6076.6ms)
+
+
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+  
+Completed 500 Internal Server Error in 6044ms (ActiveRecord: 22.9ms)
+
+
+Errno::EIO (Input/output error @ io_write - <STDERR>):
+  
+  
+Errno::EIO (Input/output error @ io_write - <STDERR>):
+Completed 500 Internal Server Error in 44ms (ActiveRecord: 11.4ms)
+
+
+  
+Errno::EIO (Input/output error @ io_write - <STDERR>):
+  
+app/controllers/api/v1/issues_controller.rb:5:in `index'
+app/controllers/api/v1/issues_controller.rb:5:in `index'
+  
+app/controllers/api/v1/issues_controller.rb:5:in `index'
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (7.29ms)
+Completed 200 OK in 6969ms (Views: 857.7ms | ActiveRecord: 94.7ms)
+
+
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.5ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (2.99ms)
+Completed 200 OK in 53ms (Views: 10.7ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:17:19 -0400
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/danasevcik/.rvm/gems/ruby-2.6.1/gems/activerecord-5.2.2.1/lib/active_record/log_subscriber.rb:98
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.6ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.43ms)
+Completed 200 OK in 16ms (Views: 3.6ms | ActiveRecord: 4.7ms)
+
+
+Started GET "/api/v1/issues/1/downvote" for ::1 at 2019-03-25 20:17:22 -0400
+Processing by Api::V1::IssuesController#downvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:29
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[36mCategory Load (0.4ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[36mIssue Update (0.5ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 8], ["updated_at", "2019-03-26 00:17:22.649370"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[35m (0.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.16ms)
+Completed 200 OK in 17ms (Views: 0.6ms | ActiveRecord: 6.2ms)
+
+
+Started GET "/api/v1/issues/1/downvote" for ::1 at 2019-03-25 20:17:23 -0400
+Processing by Api::V1::IssuesController#downvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:29
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 7], ["updated_at", "2019-03-26 00:17:23.492448"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.14ms)
+Completed 200 OK in 6ms (Views: 0.5ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:17:24 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (1.0ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (1.13ms)
+Completed 200 OK in 4ms (Views: 2.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:17:41 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.74ms)
+Completed 200 OK in 3ms (Views: 1.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues/1/downvote" for ::1 at 2019-03-25 20:17:43 -0400
+Processing by Api::V1::IssuesController#downvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:29
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 6], ["updated_at", "2019-03-26 00:17:43.110878"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:32
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.12ms)
+Completed 200 OK in 7ms (Views: 1.0ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:17:44 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.71ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:17:45 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.65ms)
+Completed 200 OK in 3ms (Views: 1.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:03 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.7ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:04 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.5ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.92ms)
+Completed 200 OK in 3ms (Views: 1.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:11 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.35ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues/2/upvote" for ::1 at 2019-03-25 20:19:12 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"2"}
+  [1m[36mIssue Load (0.4ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 2], ["updated_at", "2019-03-26 00:19:12.430225"], ["id", 2]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.14ms)
+Completed 200 OK in 7ms (Views: 0.5ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/api/v1/issues/2/upvote" for ::1 at 2019-03-25 20:19:13 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"2"}
+  [1m[36mIssue Load (0.5ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 3], ["updated_at", "2019-03-26 00:19:13.018490"], ["id", 2]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.4ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.73ms)
+Completed 200 OK in 6ms (Views: 1.0ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/api/v1/issues/2/upvote" for ::1 at 2019-03-25 20:19:13 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"2"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.3ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 4], ["updated_at", "2019-03-26 00:19:13.308409"], ["id", 2]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 7ms (Views: 0.9ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:14 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.33ms)
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:17 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.3ms)
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues/4/upvote" for ::1 at 2019-03-25 20:19:18 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"4"}
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.4ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 3], ["updated_at", "2019-03-26 00:19:18.145739"], ["id", 4]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 5ms (Views: 0.5ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:18 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.32ms)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:20 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.29ms)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:19:21 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.4ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 9], ["updated_at", "2019-03-26 00:19:21.112188"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 5ms (Views: 0.5ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:19:21 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 10], ["updated_at", "2019-03-26 00:19:21.700224"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.12ms)
+Completed 200 OK in 4ms (Views: 0.4ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:19:21 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 11], ["updated_at", "2019-03-26 00:19:21.902324"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.12ms)
+Completed 200 OK in 5ms (Views: 0.4ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:22 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.27ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues/1/upvote" for ::1 at 2019-03-25 20:19:24 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.1ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 7], ["updated_at", "2019-03-26 00:19:24.635117"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.12ms)
+Completed 200 OK in 4ms (Views: 0.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:24 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.27ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:25 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.37ms)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues/2/upvote" for ::1 at 2019-03-25 20:19:26 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"2"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 5], ["updated_at", "2019-03-26 00:19:26.788290"], ["id", 2]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.14ms)
+Completed 200 OK in 5ms (Views: 0.5ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:27 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.29ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues/4/upvote" for ::1 at 2019-03-25 20:19:27 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"4"}
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.3ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 4], ["updated_at", "2019-03-26 00:19:27.794519"], ["id", 4]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 5ms (Views: 0.4ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:28 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.28ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues/3/upvote" for ::1 at 2019-03-25 20:19:28 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"3"}
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 12], ["updated_at", "2019-03-26 00:19:28.779002"], ["id", 3]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.4ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 5ms (Views: 0.5ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:29 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.29ms)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues/1/upvote" for ::1 at 2019-03-25 20:19:29 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.1ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 8], ["updated_at", "2019-03-26 00:19:29.715195"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.13ms)
+Completed 200 OK in 5ms (Views: 0.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:29 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.29ms)
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:32 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.6ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.45ms)
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:35 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.3ms)
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:43 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.33ms)
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:45 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.3ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.29ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:46 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.29ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/issues/1/upvote" for ::1 at 2019-03-25 20:19:47 -0400
+Processing by Api::V1::IssuesController#upvote as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT  "issues".* FROM "issues" WHERE "issues"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:20
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mCategory Load (0.2ms)[0m  [1m[34mSELECT  "categories".* FROM "categories" WHERE "categories"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[36mIssue Update (0.3ms)[0m  [1m[33mUPDATE "issues" SET "votes" = $1, "updated_at" = $2 WHERE "issues"."id" = $3[0m  [["votes", 9], ["updated_at", "2019-03-26 00:19:48.002839"], ["id", 1]]
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+  [1m[35m (0.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:23
+[active_model_serializers] Rendered IssueSerializer with ActiveModelSerializers::Adapter::Attributes (0.25ms)
+Completed 200 OK in 5ms (Views: 0.7ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/api/v1/issues" for ::1 at 2019-03-25 20:19:48 -0400
+Processing by Api::V1::IssuesController#index as */*
+  [1m[36mIssue Load (0.2ms)[0m  [1m[34mSELECT "issues".* FROM "issues"[0m
+  ↳ app/controllers/api/v1/issues_controller.rb:3
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.27ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.2ms)
+
+
